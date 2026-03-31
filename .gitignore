@@ -1,0 +1,12 @@
+# Logs generados por el formulario de contacto
+opensurce/logs/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
